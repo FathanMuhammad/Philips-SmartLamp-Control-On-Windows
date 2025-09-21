@@ -1,4 +1,7 @@
 # Philips WiZ Control on Windows
+
+<img width="462" height="722" alt="Image" src="https://github.com/user-attachments/assets/d6927dbd-afe9-4a4a-9d16-1b09f2fd88a0" />
+
 ## Deskripsi
 
 Aplikasi ini memungkinkan pengguna mengontrol lampu Philips WiZ langsung dari PC atau laptop berbasis Windows.
